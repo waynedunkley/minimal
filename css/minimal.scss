@@ -1,0 +1,23 @@
+/*!
+ * Minimal v0.1
+ * A minimised version of Bootstrap
+ * Based off Bootstrap v3.3.6
+ */
+
+// Core variables and mixins
+@import "minimal/variables";
+@import "minimal/mixins";
+
+// Reset and dependencies
+@import "minimal/normalize";
+
+// Core CSS
+@import "minimal/scaffolding";
+@import "minimal/type";
+@import "minimal/grid";
+@import "minimal/forms";
+@import "minimal/buttons";
+
+// Utility classes
+@import "minimal/utilities";
+@import "minimal/responsive-utilities";
