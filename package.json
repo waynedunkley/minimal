@@ -1,0 +1,24 @@
+{
+  "name": "minimal",
+  "version": "1.0.0",
+  "description": "A minimal version of Twitters Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynedunkley/minimal.git"
+  },
+  "keywords": [
+    "minimal",
+    "twitter",
+    "bootstrap"
+  ],
+  "author": "waynedunkley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waynedunkley/minimal/issues"
+  },
+  "homepage": "https://github.com/waynedunkley/minimal#readme"
+}
